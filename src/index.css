@@ -15,6 +15,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
@@ -123,7 +124,7 @@ code {
 
   padding: 20px;
 
-  border: 1px solid #0088BB;
+  border: 1px solid #bb0000;
   border-radius: 8px;
 }
 
@@ -183,18 +184,18 @@ code {
 /* ------------------------------------------------------ */
 /* -- Footer -- */
 .footer {
-  margin: 0 auto;
+  margin: 40 auto;
   text-align: center;
 }
 
 /* ------------------------------------------------------ */
 /* -- HTML COMPONENTS: BUTTON -- */
 .button {
-  display: inline-block;
+  display: inline-flex;
 
-  background: #12BDF3;
+  background: #d3d3d36c;
 
-  padding: 15px 50px;
+  padding: 15px 20px;
 
   border: none;
   border-radius: 8px;
@@ -204,12 +205,12 @@ code {
   font-weight: 700;
   text-decoration: none;
 
-  cursor: pointer;
+  cursor: progress+all-scroll;
 
   transition: all 250ms ease;
 }
 
 .button:hover {
-  background: #0088BB;
-  color: #FFFFFF;
+  background: #ffffff;
+  color: #000000;
 }
