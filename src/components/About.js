@@ -5,11 +5,7 @@ const About = () => {
     return (
         <section className='about'>
             <h2>About</h2>
-            <p> Currently, I reside in Toronto, Ontario, Canada. Where I run a private Crypto Research Group and Swing Trade Crypto. 
-                Alongside writing internal reports and developing scripts to automate investment research. I also run a small team of developers and artist building out
-                a Play-to-Earn game that will be releasing on iOS app store later next year. I am a member of the gitcoin community and crypto devs ethereum discord, granting me
-                access to a vast amount of resources not readily available to the common dev. In my earlier years I specialized as a musician, 
-                I have been working towards bringing the two technologies together blurring the lines what it means to be a fan.
+            <p>Based out of Toronto, Canada. Being a passionate young musician didn't pay the bills so in 2007 I taught myself how to code. In 2013 I built Live Wallpaper Games that went on to garner over 400k downloads within 2 months of release without push, not to mention my music reaching thousands of people also. So here we are in 2022 where I work full time at Fisidi Inc. to build out feasible Play to Earn mechanisms for the passive earner and casual gamer alike.
             </p>
         </section>
     );

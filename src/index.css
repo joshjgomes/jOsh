@@ -24,6 +24,7 @@ code {
 .App {
   max-width: 1200px;
   margin: 0 auto;
+  text-align: center;
 }
 
 /* ------------------------------------------------------ */
@@ -53,16 +54,13 @@ code {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-
   text-align: center;
 }
 
 .header img {
   max-width: 300px;
   height: auto;
-
   margin: 20px auto;
-
   border-radius: 50%;
 }
 
@@ -76,10 +74,13 @@ code {
 }
 
 .header__content p {
+  font-style: ;
+  padding-top: 4px;
   font-size: 32px;
 }
 
 .header__content button {
+  padding-top: 32px;
   margin: 25px auto 0;
 }
 
@@ -124,7 +125,7 @@ code {
 
   padding: 20px;
 
-  border: 1px solid #bb0000;
+  border: 1px solid #000000;
   border-radius: 8px;
 }
 
